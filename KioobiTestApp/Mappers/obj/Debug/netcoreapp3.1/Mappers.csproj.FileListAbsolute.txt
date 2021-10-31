@@ -1,0 +1,14 @@
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Mappers.deps.json
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Mappers.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Mappers.pdb
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.pdb
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\bin\Debug\netcoreapp3.1\Dtos.pdb
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Mappers\obj\Debug\netcoreapp3.1\Mappers.csproj.CopyComplete

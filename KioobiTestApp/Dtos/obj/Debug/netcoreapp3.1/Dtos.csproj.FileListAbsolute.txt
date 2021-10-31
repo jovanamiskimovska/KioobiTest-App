@@ -1,0 +1,9 @@
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\bin\Debug\netcoreapp3.1\Dtos.deps.json
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\bin\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\bin\Debug\netcoreapp3.1\Dtos.pdb
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.dll
+C:\Users\Miskimovski\source\repos\KioobiTestApp\Dtos\obj\Debug\netcoreapp3.1\Dtos.pdb
